@@ -1,0 +1,4 @@
+This example will:
+Use procedural programming to define a function that performs a simple calculation.
+Use object-oriented programming to define a struct and methods.
+Use concurrent programming to run tasks concurrently using goroutines and channels.
